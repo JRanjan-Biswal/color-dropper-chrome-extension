@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "color-drop-by-jyoti",
+    "description": "custom color dropper and color selector",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "./drop-logo-image.png"
+    }
+}

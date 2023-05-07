@@ -1,0 +1,11 @@
+.color-container {
+    height: 100px;
+    width: 200px;;
+}
+input {
+    height: 70%;
+    width: 100%;
+}
+.color-drop {
+    margin-bottom: 1rem;
+}
